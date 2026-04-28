@@ -1,30 +1,48 @@
-# Spotify Music Analytics Dashboard
+🎧 Spotify Music Analytics Dashboard (Power BI)
+📌 Project Overview
 
-## 📊 Project Overview
-This project analyzes Spotify music data to uncover insights about songs, artists, and popularity trends. The dashboard provides an interactive way to explore music performance and user listening patterns.
+This project is an interactive Spotify analytics dashboard built using Power BI. It provides insights into songs, artists, popularity trends, and listening patterns to help understand music consumption behavior.
 
-## 🛠️ Tools Used
-- Power BI
-- SQL (if used)
-- Data Visualization Techniques
+🚀 Key Metrics
+🎵 Total Songs: 789
+🎤 Total Artists: 342
+⏱ Average Duration: 3.28 mins
+⭐ Average Popularity: 89.62
+📊 Dashboard Features
 
-## 📈 Key Features
-- Total Songs, Artists, and Average Duration KPIs
-- Artist ranking and album popularity analysis
-- Monthly trends in song popularity
-- Explicit vs non-explicit song distribution
-- Song-level popularity insights
+1️⃣ Music Library Overview
+Total songs and artists count
+Song list with artist details
+Album artwork preview with media-style UI
 
-## 🖼️ Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+2️⃣ Popularity Insights
+🔝 Top Songs by Popularity
+🎤 Top Artists Ranking
+📈 Average popularity per song
 
-## 💡 Insights
-- Certain artists dominate overall popularity
-- Monthly trends show fluctuations in music engagement
-- Explicit songs form a significant portion of total tracks
-- Album-level analysis helps identify high-performing releases
+3️⃣ Album & Content Analysis
+📀 Tracks per album distribution
+🔞 Explicit vs Non-explicit songs
+💿 Album popularity insights
 
-## 🚀 Learnings
-- Improved dashboard design and UI skills
-- Hands-on experience with real-world data visualization
-- Better understanding of user-centric analytics
+4️⃣ Time-Based Trends
+📅 Average popularity by month
+📊 Total songs added per month
+Seasonal music trends analysis
+
+5️⃣ Advanced Visuals
+Interactive filters (Month / Quarter)
+Clean Spotify-inspired UI
+Drill-down song-level insights
+
+🛠 Tools & Technologies
+Power BI Desktop
+Power Query (Data Cleaning)
+DAX (Data Analysis Expressions)
+Custom UI Design (Spotify Theme)
+
+📈 Key Insights
+Certain artists dominate popularity rankings
+Music popularity fluctuates across months
+High number of explicit tracks (~55%)
+Albums vary significantly in track count
